@@ -1,4 +1,3 @@
-<img width="1268" height="508" alt="image" src="https://github.com/user-attachments/assets/dbd26186-8580-460a-81b8-bb973f96b9b7" /># Experiment 5: Subqueries and Views
 
 ## AIM
 To study and implement subqueries and views.
